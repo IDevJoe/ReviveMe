@@ -1,0 +1,8 @@
+name: "ReviveMe"
+main: net.devjoe.reviveme.RevivePlugin
+version: 1.0
+api-version: 1.12.2-R0.1-SNAPSHOT
+commands:
+  revive:
+    description: Revives youself
+    usage: /revive
